@@ -1,7 +1,7 @@
 name="example"
 index="code/index.html"
-styles= "code/styles.css"
-script="code/script.js"
+styles= "code/styles.css" 
+script="code/script.js" # or script.py
 permisions_needed=[]
 description="README.md"
 LICENSE_file="path"
