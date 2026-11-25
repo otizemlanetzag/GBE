@@ -1,0 +1,7 @@
+name="example"
+index="index.html"
+styles= "styles.css"
+script="script.js"
+permisions_needed=[]
+description="README.md"
+LICENSE_file="path"
